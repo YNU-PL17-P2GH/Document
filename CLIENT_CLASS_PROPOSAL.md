@@ -18,6 +18,7 @@
 - 次のダンジョンへ進むnextDungeon()
 - 前の部屋へ戻るpreviousDungeon()
 - 仕掛けを作動させるopenDoor(), setVariable()など
+- プログラムを実行するrunScript()
 
 ## Connection
 - 通信クラス.
