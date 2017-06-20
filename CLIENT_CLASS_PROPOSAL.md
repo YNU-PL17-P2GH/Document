@@ -22,3 +22,4 @@
 ## Connection
 - 通信クラス.
 - サーバとのデータ同期を受け持つ.
+- とりあえずlogin(),send(),receive()
